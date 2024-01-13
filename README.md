@@ -10,7 +10,7 @@ Goal: To reduce customer churn, telecom companies need to predict which customer
 # Conclusion
 
 ## Final conclusion with PCA
-After trying several models we can see that for acheiving the best sensitivity, which was our ultimate goal, the classic Logistic regression or the SVM models preforms well. For both the models the sensitivity was approx 81%. Also we have good accuracy of apporx 85%. But we also noticed the resource consumption is more in these models.
+After trying several models we can see that for acheiving the best sensitivity, which was our ultimate goal, the classic Logistic regression or the adaboost models preforms well. For both the models the sensitivity was approx 85-90%. Also we have good accuracy of apporx 80%. But we also noticed the resource consumption is more in these models.
 
 ## Final conclusion with NO PCA
 We can see that the logistic model with no PCA has good sensitivity and accuracy, with compare to the models with PCA. So, we can go for the more simplistic as it also reduces the chance for overfitting.
